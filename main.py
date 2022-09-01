@@ -1,16 +1,16 @@
 from selenium import webdriver
 import time
 
-chrome = webdriver.Chrome(executable_path="chromedriver")
-chrome1 = webdriver.Chrome(executable_path="chromedriver")
-chrome2 = webdriver.Chrome(executable_path="chromedriver")
-chrome3 = webdriver.Chrome(executable_path="chromedriver")
-chrome4 = webdriver.Chrome(executable_path="chromedriver")
-chrome5 = webdriver.Chrome(executable_path="chromedriver")
-chrome6 = webdriver.Chrome(executable_path="chromedriver")
-chrome7 = webdriver.Chrome(executable_path="chromedriver")
-chrome8 = webdriver.Chrome(executable_path="chromedriver")
-chrome9 = webdriver.Chrome(executable_path="chromedriver")
+chrome = webdriver.Chrome(executable_path="chromedriver.exe")
+chrome1 = webdriver.Chrome(executable_path="chromedriver.exe")
+chrome2 = webdriver.Chrome(executable_path="chromedriver.exe")
+chrome3 = webdriver.Chrome(executable_path="chromedriver.exe")
+chrome4 = webdriver.Chrome(executable_path="chromedriver.exe")
+chrome5 = webdriver.Chrome(executable_path="chromedriver.exe")
+chrome6 = webdriver.Chrome(executable_path="chromedriver.exe")
+chrome7 = webdriver.Chrome(executable_path="chromedriver.exe")
+chrome8 = webdriver.Chrome(executable_path="chromedriver.exe")
+chrome9 = webdriver.Chrome(executable_path="chromedriver.exe")
 
 
 
